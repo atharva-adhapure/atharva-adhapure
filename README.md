@@ -11,7 +11,6 @@ I'm passionate about building strong foundations in **Data Structures & Algorith
 ### 🚀 What I'm Working On:
 - Sharpening **DSA** and core CS concepts (DBMS, OS, CN)
 - Building responsive web apps using **React.js**
-- Strengthening **aptitude** and interview prep
 
 ---
 
