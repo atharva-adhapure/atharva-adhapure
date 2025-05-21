@@ -42,8 +42,8 @@ I'm passionate about building strong foundations in **Data Structures & Algorith
 
 ### 📫 Let's Connect!
 - [GitHub](https://github.com/atharva-adhapure)
-- [LinkedIn](https://www.linkedin.com/in/your-link-here) *(replace with your actual link)*
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/atharvaadhapure) 
+- Email: adhapureatharva@gmail.com
 
 ---
 
